@@ -1,4 +1,4 @@
-# logApp-scaling-octo
+
 # README
 
  > **NAME**
